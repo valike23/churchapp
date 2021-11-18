@@ -9,10 +9,10 @@
     </button>
     <a href="/donations" class="button bg-blue fg-white">
         <span class="icon mif-dollar2"></span>
-        <span class="label">Donation</span>
+        <span class="label">Pay</span>
     </a>
     <a href="/library" class="button bg-blue fg-white">
         <span class="icon mif-library"></span>
-        <span class="label">Library</span>
+        <span class="label">Lib</span>
     </a>
 </div>
